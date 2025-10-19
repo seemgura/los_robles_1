@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+}
+header, footer {
+  background-color: #1a1a1a;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+main {
+  padding: 2rem;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  main {
+    padding: 1rem;
+  }
+}

@@ -1,20 +1,22 @@
-# Residencial Los Robles — React App
+# Residencial Los Robles 🏡
 
-Proyecto base en **React + Vite + Tailwind + React Router** para el caso *Residencial Los Robles*.
+Aplicación web desarrollada en **React.js** bajo metodología **SCRUM**.
 
-## ▶️ Ejecutar
+## 👥 Equipo
+- **Product Owner:** Diego Tonatiuh Ruvalcaba Alcalá
+- **Scrum Master:** Eduardo Serrano Barajas
+- **Desarrollador:** Sergio Emmanuel Guerra Ramírez
+
+## ⚙️ Instalación
 ```bash
-npm i
-npm run dev
+npm install
+npm start
 ```
 
-## 📦 Build
-```bash
-npm run build
-npm run preview
-```
+## 🚀 Despliegue
+Desplegado en Render o Railway.
 
-## 🧱 Estructura
-- `src/pages/`: Páginas (Dashboard, Accesos, Incidencias, Notificaciones, Pagos, Reglamento, Reportes)
-- `src/components/ui/`: UI mínima con Tailwind (Button, Card, Input, etc.)
-- `src/services/`: `storage.js` (persistencia local), `payments.js`, `mailer.js` (stubs)
+## 🧩 Historias nuevas
+**H8:** Responsividad completa.
+**H9:** Documentación técnica (este archivo).
+**H10:** Optimización del rendimiento (lazy loading, memoización).
