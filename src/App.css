@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+}
+header, footer {
+  background-color: #1a1a1a;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+main {
+  padding: 2rem;
+  text-align: center;
+}
+.lista-proyectos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #1a1a1a;
+  color: white;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: 0.2s ease-in-out;
+}
+button:hover {
+  background-color: #444;
+}
+@media (max-width: 768px) {
+  main {
+    padding: 1rem;
+  }
+}

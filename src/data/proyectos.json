@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Residencial Los Robles - Etapa 1",
+    "descripcion": "Conjunto habitacional moderno con áreas verdes y amenidades sustentables.",
+    "imagen": "./assets/images/losrobles1.webp"
+  },
+  {
+    "nombre": "Residencial Los Robles - Etapa 2",
+    "descripcion": "Casas inteligentes con integración de domótica y eficiencia energética.",
+    "imagen": "./assets/images/losrobles2.webp"
+  },
+  {
+    "nombre": "Residencial Los Robles - Etapa 3",
+    "descripcion": "Zona residencial con nuevos modelos arquitectónicos y paneles solares.",
+    "imagen": "./assets/images/plano.webp"
+  }
+]
